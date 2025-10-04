@@ -1,0 +1,53 @@
+FACTURA
+
+EMPRESA XYZ S.A.
+CIF: B-12345678
+Dirección: Calle Comercio 456, Madrid 28001
+Teléfono: +34 91 123 4567
+Email: ventas@empresaxyz.com
+
+FACTURA Nº: 2025-0123
+FECHA: 10/03/2025
+
+CLIENTE:
+Nombre: Distribuciones ABC S.L.
+CIF: B-87654321
+Dirección: Avenida Principal 789, Barcelona 08001
+
+DETALLES DE LA FACTURA:
+
+DESCRIPCIÓN                    CANTIDAD    PRECIO UNIT.    TOTAL
+─────────────────────────────────────────────────────────────
+Producto A - Modelo Premium        50        25.00 €     1,250.00 €
+Producto B - Edición Estándar     100        15.00 €     1,500.00 €
+Producto C - Accesorio Plus        75        10.00 €       750.00 €
+─────────────────────────────────────────────────────────────
+
+SUBTOTAL:                                              3,500.00 €
+IVA (21%):                                               735.00 €
+─────────────────────────────────────────────────────────────
+TOTAL A PAGAR:                                         4,235.00 €
+
+
+FORMA DE PAGO:
+Transferencia bancaria a cuenta:
+IBAN: ES12 1234 5678 9012 3456 7890
+Banco: Banco Internacional
+Concepto: Factura 2025-0123
+
+CONDICIONES DE PAGO:
+Pago a 30 días desde la fecha de emisión.
+
+NOTAS:
+- Los productos se entregarán en un plazo de 5-7 días hábiles
+- Garantía de 2 años en todos los productos
+- Portes incluidos para pedidos superiores a 1,000 €
+
+
+Esta factura se considera aceptada si no se recibe reclamación en los
+10 días siguientes a su recepción.
+
+
+Firma autorizada: ___________________
+
+Sello de la empresa

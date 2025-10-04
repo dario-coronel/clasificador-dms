@@ -1,0 +1,97 @@
+POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS
+
+EMPRESA XYZ S.A.
+
+ÚLTIMA ACTUALIZACIÓN: 10 de marzo de 2025
+
+1. INTRODUCCIÓN
+
+La presente Política de Privacidad regula el tratamiento de los datos
+personales de los usuarios que acceden a nuestros servicios. Nos
+comprometemos a proteger la privacidad y confidencialidad de la información
+proporcionada.
+
+2. RESPONSABLE DEL TRATAMIENTO
+
+Razón Social: EMPRESA XYZ S.A.
+CIF: B-12345678
+Dirección: Calle Comercio 456, Madrid 28001
+Email de contacto: privacidad@empresaxyz.com
+
+3. DATOS RECOPILADOS
+
+Recopilamos los siguientes tipos de información:
+- Datos de identificación: nombre, apellidos, DNI
+- Datos de contacto: correo electrónico, teléfono, dirección
+- Datos de navegación: dirección IP, cookies, historial de navegación
+- Datos de transacciones: historial de compras, métodos de pago
+
+4. FINALIDAD DEL TRATAMIENTO
+
+Los datos personales serán utilizados para:
+- Gestión de la relación comercial
+- Envío de comunicaciones promocionales (previo consentimiento)
+- Mejora de nuestros servicios
+- Cumplimiento de obligaciones legales
+
+5. LEGITIMACIÓN
+
+La base legal para el tratamiento de datos es:
+- Ejecución de contrato
+- Consentimiento expreso del usuario
+- Interés legítimo
+- Cumplimiento de obligaciones legales
+
+6. CONSERVACIÓN DE DATOS
+
+Los datos se conservarán durante:
+- Relación comercial activa: mientras dure la relación
+- Finalización de relación: 5 años para cumplimiento de obligaciones fiscales
+- Consentimiento para comunicaciones: hasta su revocación
+
+7. DERECHOS DE LOS USUARIOS
+
+Los usuarios tienen derecho a:
+- Acceso a sus datos personales
+- Rectificación de datos inexactos
+- Supresión de datos (derecho al olvido)
+- Limitación del tratamiento
+- Portabilidad de datos
+- Oposición al tratamiento
+
+Para ejercer estos derechos, contactar a: privacidad@empresaxyz.com
+
+8. MEDIDAS DE SEGURIDAD
+
+Implementamos las siguientes medidas de seguridad:
+- Cifrado de datos sensibles
+- Firewalls y sistemas de detección de intrusiones
+- Auditorías de seguridad periódicas
+- Formación continua del personal en protección de datos
+
+9. TRANSFERENCIAS INTERNACIONALES
+
+Los datos no se transferirán a países fuera del Espacio Económico Europeo,
+salvo que sea necesario y se garanticen las medidas de seguridad adecuadas.
+
+10. COOKIES
+
+Utilizamos cookies para mejorar la experiencia del usuario. Para más
+información, consulte nuestra Política de Cookies.
+
+11. MODIFICACIONES
+
+Nos reservamos el derecho de modificar esta política. Las actualizaciones
+se notificarán a los usuarios mediante correo electrónico o publicación
+en nuestro sitio web.
+
+12. CONTACTO
+
+Para cualquier consulta sobre esta política, contactar:
+Email: privacidad@empresaxyz.com
+Teléfono: +34 91 123 4567
+
+13. AUTORIDAD DE CONTROL
+
+Los usuarios pueden presentar reclamaciones ante la Agencia Española de
+Protección de Datos (AEPD): www.aepd.es

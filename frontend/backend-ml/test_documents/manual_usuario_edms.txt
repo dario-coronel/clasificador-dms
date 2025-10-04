@@ -1,0 +1,185 @@
+MANUAL DE USUARIO
+SISTEMA DE GESTIÓN ELECTRÓNICA DE DOCUMENTOS (EDMS)
+
+VERSIÓN 1.0
+FECHA: 10 de marzo de 2025
+
+═══════════════════════════════════════════════════════════════
+
+ÍNDICE
+
+1. Introducción
+2. Requisitos del sistema
+3. Instalación
+4. Configuración inicial
+5. Uso básico
+6. Funciones avanzadas
+7. Solución de problemas
+8. Preguntas frecuentes
+
+═══════════════════════════════════════════════════════════════
+
+1. INTRODUCCIÓN
+
+Bienvenido al Sistema de Gestión Electrónica de Documentos (EDMS).
+Este manual le guiará a través de todas las funcionalidades del sistema
+para aprovechar al máximo sus capacidades.
+
+EDMS es una solución completa para la gestión, almacenamiento y
+clasificación automática de documentos utilizando tecnologías de
+inteligencia artificial y machine learning.
+
+═══════════════════════════════════════════════════════════════
+
+2. REQUISITOS DEL SISTEMA
+
+HARDWARE MÍNIMO:
+- Procesador: Intel Core i3 o equivalente
+- RAM: 4 GB (recomendado: 8 GB)
+- Disco duro: 10 GB de espacio libre
+- Resolución de pantalla: 1280x720 píxeles
+
+SOFTWARE:
+- Sistema operativo: Windows 10/11, macOS 10.15+, Linux Ubuntu 20.04+
+- Navegador web: Chrome 90+, Firefox 88+, Edge 90+, Safari 14+
+- Python 3.8 o superior (para el backend ML)
+- Node.js 20.19+ (para el frontend)
+
+CONEXIÓN A INTERNET:
+- Requerida para la instalación y actualizaciones
+- Opcional para uso offline después de la configuración
+
+═══════════════════════════════════════════════════════════════
+
+3. INSTALACIÓN
+
+PASO 1: DESCARGAR EL SOFTWARE
+Acceda a www.edms-system.com/download y descargue la última versión.
+
+PASO 2: EJECUTAR EL INSTALADOR
+- Windows: Doble clic en EDMS-Setup.exe
+- macOS: Abrir EDMS-Installer.dmg y arrastrar a Aplicaciones
+- Linux: Ejecutar ./install.sh desde la terminal
+
+PASO 3: SEGUIR EL ASISTENTE DE INSTALACIÓN
+El asistente le guiará a través de la configuración inicial.
+
+═══════════════════════════════════════════════════════════════
+
+4. CONFIGURACIÓN INICIAL
+
+4.1 CREAR CUENTA DE ADMINISTRADOR
+Al iniciar por primera vez, se le pedirá crear una cuenta de administrador:
+- Nombre de usuario
+- Correo electrónico
+- Contraseña segura (mínimo 8 caracteres)
+
+4.2 CONFIGURAR BASE DE DATOS
+Elija el tipo de base de datos:
+- SQLite (para instalaciones pequeñas)
+- MySQL (recomendado para uso empresarial)
+- PostgreSQL (para grandes volúmenes)
+
+4.3 CONFIGURAR CLASIFICACIÓN ML
+Active la clasificación automática de documentos:
+1. Ir a Configuración > Machine Learning
+2. Activar "Clasificación automática"
+3. Entrenar el modelo con documentos de ejemplo
+
+═══════════════════════════════════════════════════════════════
+
+5. USO BÁSICO
+
+5.1 SUBIR DOCUMENTOS
+1. Hacer clic en "Subir documento" en el panel principal
+2. Seleccionar archivo(s) desde su computadora
+3. El sistema clasificará automáticamente el documento
+4. Revisar y confirmar la clasificación sugerida
+
+5.2 BUSCAR DOCUMENTOS
+- Usar la barra de búsqueda en la parte superior
+- Filtrar por categoría, fecha, autor, etiquetas
+- Ordenar resultados por relevancia o fecha
+
+5.3 ORGANIZAR DOCUMENTOS
+- Crear carpetas personalizadas
+- Asignar etiquetas a los documentos
+- Mover documentos entre categorías
+
+═══════════════════════════════════════════════════════════════
+
+6. FUNCIONES AVANZADAS
+
+6.1 IMPORTACIÓN MASIVA
+Para importar múltiples documentos:
+1. Ir a Herramientas > Importación masiva
+2. Seleccionar carpeta con archivos
+3. El sistema procesará y clasificará todos los archivos
+4. Revisar resultados y aprobar
+
+6.2 OCR (RECONOCIMIENTO ÓPTICO DE CARACTERES)
+Para extraer texto de imágenes y PDFs escaneados:
+1. Subir documento escaneado
+2. El sistema aplicará OCR automáticamente
+3. Revisar y corregir el texto extraído
+
+6.3 ENTRENAMIENTO DEL MODELO
+Para mejorar la precisión de la clasificación:
+1. Ir a Configuración > Machine Learning > Entrenar
+2. Proporcionar ejemplos de documentos correctamente clasificados
+3. Ejecutar entrenamiento
+4. Validar mejoras en la precisión
+
+═══════════════════════════════════════════════════════════════
+
+7. SOLUCIÓN DE PROBLEMAS
+
+PROBLEMA: El sistema no inicia
+SOLUCIÓN: Verificar que todos los servicios estén corriendo:
+- Backend: http://localhost:8000
+- Backend ML: http://localhost:8001
+- Frontend: http://localhost:3000
+
+PROBLEMA: Clasificación incorrecta
+SOLUCIÓN: 
+1. Entrenar el modelo con más ejemplos
+2. Verificar que el documento tenga texto legible
+3. Clasificar manualmente y reportar el error
+
+PROBLEMA: Error al subir archivos grandes
+SOLUCIÓN: 
+1. Verificar configuración de tamaño máximo en backend
+2. Comprimir archivos si es necesario
+3. Subir en lotes más pequeños
+
+═══════════════════════════════════════════════════════════════
+
+8. PREGUNTAS FRECUENTES
+
+P: ¿Qué formatos de archivo son compatibles?
+R: TXT, PDF, DOC, DOCX, XLS, XLSX, PNG, JPG, TIFF
+
+P: ¿Puedo usar el sistema offline?
+R: Sí, después de la configuración inicial
+
+P: ¿Los datos están cifrados?
+R: Sí, todos los datos se cifran en reposo y en tránsito
+
+P: ¿Cuántos documentos puedo almacenar?
+R: Sin límite, depende del espacio de almacenamiento disponible
+
+P: ¿Puedo personalizar las categorías?
+R: Sí, en Configuración > Categorías
+
+═══════════════════════════════════════════════════════════════
+
+SOPORTE TÉCNICO
+
+Email: soporte@edms-system.com
+Teléfono: +34 900 123 456
+Chat en vivo: www.edms-system.com/chat
+Documentación: docs.edms-system.com
+
+═══════════════════════════════════════════════════════════════
+
+Copyright © 2025 EDMS System. Todos los derechos reservados.
